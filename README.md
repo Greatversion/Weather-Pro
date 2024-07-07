@@ -9,7 +9,6 @@ Weather Plus is a powerful and elegant weather forecast application built using 
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -28,13 +27,6 @@ Weather Plus is a powerful and elegant weather forecast application built using 
 9. **Persistent Data**: Saves the last searched cities using `SharedPreferences`, maintaining the recent searches even after the app is closed.
 10. **Glass Effect UI**: Uses a glassmorphic effect for various UI components, enhancing the visual appeal.
 
-## Screenshots
-
-Add screenshots of your app in different states here to give users a visual overview.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
