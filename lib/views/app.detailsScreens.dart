@@ -136,7 +136,7 @@ class _WeatherDetailsScreenState extends State<WeatherDetailsScreen> {
                                 crossAxisAlignment: CrossAxisAlignment.end,
                                 children: [
                                   Text(
-                                    '${dataProvider.currentDataModel!.current!.tempC}ºC',
+                                    '${networkCityModel.current!.tempC}ºC',
                                     style: const TextStyle(
                                         fontWeight: FontWeight.bold,
                                         fontFamily: "Outfit",
