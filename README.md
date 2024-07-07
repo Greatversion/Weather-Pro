@@ -1,7 +1,3 @@
-Sure! Here’s a detailed README file for your weather app project. This README covers the project description, features, setup instructions, usage, and additional notes.
-
----
-
 # Weather Plus - Flutter Weather Forecast App
 
 Weather Plus is a powerful and elegant weather forecast application built using Flutter. It allows users to search for weather information by city and displays detailed weather data including current temperature, weather conditions, humidity, and wind speed. The app uses the OpenWeatherMap API to fetch real-time weather data.
@@ -9,7 +5,6 @@ Weather Plus is a powerful and elegant weather forecast application built using 
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -28,13 +23,6 @@ Weather Plus is a powerful and elegant weather forecast application built using 
 9. **Persistent Data**: Saves the last searched cities using `SharedPreferences`, maintaining the recent searches even after the app is closed.
 10. **Glass Effect UI**: Uses a glassmorphic effect for various UI components, enhancing the visual appeal.
 
-## Screenshots
-
-Add screenshots of your app in different states here to give users a visual overview.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
