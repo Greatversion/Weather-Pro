@@ -354,18 +354,18 @@ class _HomeScreenState extends State<HomeScreen> {
                                                         AppColors.background),
                                               ),
                                               Text(
-                                                "Feels like ${currentCityData.forecast!.forecastday.first.hour[index].feelslikeC}ºC",
+                                                "Feels like ${currentCityData.forecast!.forecastday.first.hour[index].feelslikeC} ºC",
                                                 style: const TextStyle(
-                                                    fontWeight: FontWeight.w400,
+                                                    fontWeight: FontWeight.w500,
                                                     fontFamily: "Outfit",
                                                     fontSize: 11,
                                                     color:
                                                         AppColors.background),
                                               ),
                                               Text(
-                                                "Wind : ${currentCityData.forecast!.forecastday.first.hour[index].windKph}Km/h",
+                                                "Wind : ${currentCityData.forecast!.forecastday.first.hour[index].windKph} Km/h",
                                                 style: const TextStyle(
-                                                    fontWeight: FontWeight.w400,
+                                                    fontWeight: FontWeight.w500,
                                                     fontFamily: "Outfit",
                                                     fontSize: 11,
                                                     color:

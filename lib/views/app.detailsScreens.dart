@@ -294,6 +294,9 @@ class _WeatherDetailsScreenState extends State<WeatherDetailsScreen> {
                                 ),
                               ),
                             ),
+                            const SizedBox(
+                              height: 45,
+                            ),
                             const Text(
                               'Today',
                               style: TextStyle(
@@ -376,17 +379,6 @@ class _WeatherDetailsScreenState extends State<WeatherDetailsScreen> {
                                       ),
                                     );
                                   }),
-                            ),
-                            const SizedBox(
-                              height: 80,
-                            ),
-                            Divider(
-                              height: 1,
-                              thickness: 2,
-                              indent: MediaQuery.of(context).size.width / 2.8,
-                              endIndent:
-                                  MediaQuery.of(context).size.width / 2.8,
-                              color: AppColors.textSecondary,
                             ),
                           ],
                         ),
