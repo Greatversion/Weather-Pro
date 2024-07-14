@@ -4,7 +4,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:weatherapp/controller/provider/app.SearchScreenprovider.dart';
-import 'package:weatherapp/controller/provider/app.weatherProvider.dart';
+import 'package:weatherapp/viewModel/provider/app.weatherProvider.dart';
 import 'package:weatherapp/routes/app.routeNames.dart';
 import 'package:weatherapp/utils/colors.dart';
 import 'package:weatherapp/utils/glassEffect.dart';
